@@ -44,7 +44,6 @@ Currently, I am expanding my skills by learning **MERN Stack Development** at **
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/m-hassan-yousuf-ghazi-369a072b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/YOUR_TWITTER_USERNAME)
 - [Portfolio](https://my-portfolio-neon-nine-24.vercel.app)
 - [Email](mailto:muhammadhassanyousufghazi)
 
